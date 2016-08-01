@@ -1,4 +1,4 @@
 # hello-world
 my first repository
 
-rychu siedzi na kanapie
+miałem tu napisać jakiś tekst ale był on tak głupi że zmieniłem zdanie
